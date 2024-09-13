@@ -1,6 +1,6 @@
-﻿namespace XUnitLib
+﻿namespace MaximumSubArrayProblem
 {
-    public static class LargestArraySubSum
+    public static class MaximumSubarrayProblem
     {
         public static int Compute(int[] a)
         {
