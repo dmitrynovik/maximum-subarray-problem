@@ -1,4 +1,4 @@
-What is it?
+# What is it?
 
 The solution in C# for [maximum subarray problem](https://en.wikipedia.org/wiki/Maximum_subarray_problem) algorithm in O(N) time and O(1) space.
 
